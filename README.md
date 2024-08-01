@@ -1,2 +1,2 @@
-# Basic-Guess-Number-w-Javascript
-Basic Guess Number with Javascript window alert
+# Basic-Guess-Number-using-Javascript-window-alert
+To access: https://prchlmrie.github.io/Basic-Guess-Number-w-Javascript/
